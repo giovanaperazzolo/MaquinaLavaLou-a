@@ -1,4 +1,4 @@
-# MaquinaLavaRoupa
+# Maquina de Lavar Louça
 
 ## Projeto de microcontrolador, simulando uma máquina de lavar louça
 
